@@ -184,15 +184,7 @@
                 </div>
             </div>     
         </div>
-    </section>.
-
-
-
-
-
-
-
-
+    </section>
     <div class="spacer"></div>
 </body>
 </html>

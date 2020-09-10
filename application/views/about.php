@@ -38,9 +38,9 @@
     </div>
     </nav>
 
-    <h1 class = "center spacer">
+    <div class = "center spacer">
         <?=$about_heading->about_heading?>
-    </h1>
+    </div>
     <?php
     $i = 1;
     foreach($about_card_data as $data) {

@@ -40,9 +40,9 @@
 
     <div class="container">
         <div class="spacer"></div>
-        <h1 class = "center"><?php echo$homePageHeading->home_heading ?></h1>
+        <div class = "center"><?php echo$homePageHeading->home_heading ?></div>
         <div class="spacer"></div>
-        <h3 class = "center"><?php echo$homePageDescription->home_description ?></h3>
+        <div class = "center"><?php echo$homePageDescription->home_description ?></div>
     </div>
 
     <div class="container-fluid">
